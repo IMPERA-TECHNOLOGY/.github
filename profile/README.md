@@ -1,6 +1,6 @@
 # IMPERA TECHNOLOGY
 
-![IMPERA LOGO](/images/logo.png)
+<img src="/images/logo.png" alt="IMPERA LOGO" style="width:100%; height:50%;" >
 
 ## Cultura Empresarial
 
